@@ -1,4 +1,5 @@
 
+- basecalling 결과 리드는 정렬은 안 되고 ATGC의 퍼즐 조각만 나온 상태.
 
 - Nanopore sequencing is the passing of a **single molecule** through a nanopore that has an ionic current flowing across it. 
 
