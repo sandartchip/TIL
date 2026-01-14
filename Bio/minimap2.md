@@ -1,5 +1,12 @@
 
-최근에 평균적으로 100kb의 long-read sequencing을 약속하고, full-length mRNA, cDNA reads는 100Mb을 넘으나, 현존하는 alignment program들은 그 scale을 감당하기에 불가능하거나 inefficient -> Minimap2 도입. 
+- Recent advances in sequencing technologies promise ultra-long reads of ∼100 kb in average
+- full-length mRNA or cDNA reads in high throughput
+- and genomic contigs over 100 Mb in length.
+- Existing alignment programs are unable or inefficient to process such data at scale, which presses for the development of new alignment algorithms.
 
 
-- Minimap2 is a state-of-the-art sequence alignment tool designed for aligning DNA or RNA sequences against large reference databases, such as genomes or transcriptomes.
+- Minimap2 is a state-of-the-art sequence alignment tool designed for **aligning DNA or RNA sequences against large reference databases**, such as genomes or transcriptomes.
+
+
+출처: https://minimap2.com/
+https://academic.oup.com/bioinformatics/article/34/18/3094/4994778
