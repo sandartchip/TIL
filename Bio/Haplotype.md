@@ -16,7 +16,7 @@
 -  which are variations at single positions in the DNA sequence among individuals.
 
 
-<img width="758" height="211" alt="image" src="https://github.com/user-attachments/assets/1ac69924-fc17-44f6-9b0a-b284db50f756" />
+<img width="458" height="211" alt="image" src="https://github.com/user-attachments/assets/1ac69924-fc17-44f6-9b0a-b284db50f756" />
 
 
 https://www.nature.com/scitable/definition/haplotype-haplotypes-142/
