@@ -1,4 +1,5 @@
 <img width="400" height="522" alt="image" src="https://github.com/user-attachments/assets/6a48122f-d7c7-4c57-98d3-25620682714c" />
+<br>
 <img width="600" height="420" alt="image" src="https://github.com/user-attachments/assets/8a4e629f-f4e4-4195-bfa2-19d13c853450" />
 
 - A haplotype is a **group of genes** within an organism that was **inherited together from a single parent.**
