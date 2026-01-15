@@ -12,9 +12,11 @@
 - This group of genes was **inherited together because of genetic linkage**,
 - or the phenomenon by which genes that are close to each other on the same chromosome are often inherited together.
 
-- In addition, the term "haplotype" can also refer to the inheritance of a cluster of single nucleotide polymorphisms (SNPs),
+- In addition, the term "haplotype" can also refer to the **inheritance of a cluster of single nucleotide polymorphisms (SNPs)**,
 -  which are variations at single positions in the DNA sequence among individuals.
 
+
+<img width="758" height="211" alt="image" src="https://github.com/user-attachments/assets/1ac69924-fc17-44f6-9b0a-b284db50f756" />
 
 
 https://www.nature.com/scitable/definition/haplotype-haplotypes-142/
