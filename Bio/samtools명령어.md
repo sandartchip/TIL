@@ -10,3 +10,4 @@
 > -n, --records INT
 - Also display the first INT alignment records. (첫번째 n개의 alignment record를 표시) 
 - By default, no alignment records are displayed.
+
